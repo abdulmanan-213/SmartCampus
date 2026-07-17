@@ -557,10 +557,10 @@ function App() {
                 </div>
                 <div className="flex-1 min-w-0">
                   <p className="text-sm font-medium text-gray-900 truncate">
-                    Admin Manager
+                    SmartCampus Manager
                   </p>
                   <p className="text-xs text-gray-500 truncate">
-                    admin@darulhamd.edu
+                    admin@smartcampus.edu
                   </p>
                 </div>
               </div>
