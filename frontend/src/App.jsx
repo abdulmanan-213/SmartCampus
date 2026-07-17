@@ -392,7 +392,7 @@ function App() {
               </div>
               <div>
                 <span className="text-2xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
-                  School Management System
+                  SmartCampus
                 </span>
                 <p className="text-xs text-gray-500 -mt-1">School Manager</p>
               </div>
