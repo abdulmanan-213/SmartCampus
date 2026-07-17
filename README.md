@@ -1,4 +1,4 @@
-# CampusCore
+# SmartCampus
 
 A modern and responsive **Academic Management System** built with **React.js** and **Tailwind CSS**. CampusCore streamlines academic operations by providing an intuitive platform for managing students, attendance, fees, academic records, and examination results.
 
@@ -6,7 +6,7 @@ A modern and responsive **Academic Management System** built with **React.js** a
 
 ## 📌 Overview
 
-CampusCore is a frontend-based academic management application designed to simplify educational administration. The application features a clean, responsive interface and leverages reusable React components along with efficient state management to deliver a smooth user experience.
+SmartCampus is a frontend-based academic management application designed to simplify educational administration. The application features a clean, responsive interface and leverages reusable React components along with efficient state management to deliver a smooth user experience.
 
 ---
 
